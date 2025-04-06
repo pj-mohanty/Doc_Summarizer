@@ -31,7 +31,8 @@ const PaperList = () => {
   };
 
   return (
-    <div className="app">
+      <div className="app">
+      <h1 className="header">Discussion Forum</h1>
       <div className="search-bar">
         <input
           type="text"

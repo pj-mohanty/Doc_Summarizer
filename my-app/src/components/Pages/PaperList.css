@@ -1,7 +1,14 @@
 /*Updated using chatgpt*/
 
 
-/* Overall container styling */
+.header {
+  font-size: 3rem; /* Increased font size */
+  font-weight: 600; /* Bold font weight */
+  color: #5f1717;
+  margin-bottom: 20px;
+  text-transform: uppercase; /* Optional: Makes the header uppercase */
+}
+
 .app {
   font-family: Arial, sans-serif;
   padding: 20px;
