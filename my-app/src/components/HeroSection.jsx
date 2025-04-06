@@ -15,7 +15,7 @@ const HeroSection= () => {
   return (
     <div className='Hero-container'>
       <video src="/videos/2268807-hd_1920_1080_24fps.mp4" autoPlay loop muted />
-      <h1>PaperExplorer</h1>
+      <h1>PaperTalks</h1>
       <p>Understanding the future with technology.</p>
       <div className='hero-btns'>
         <Button

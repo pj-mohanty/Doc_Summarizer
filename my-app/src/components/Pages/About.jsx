@@ -9,7 +9,7 @@ const Footer = () => {
               <h1>About</h1>
               <section className="footer-subscription">
                   <p>
-                      Welcome to PaperExplorer.
+                      Welcome to PaperTalks.
                   </p>
                   <p>
                       
