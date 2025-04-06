@@ -1,6 +1,4 @@
 /*Updated using chatgpt*/
-
-
 .header {
   font-size: 3rem; /* Increased font size */
   font-weight: 600; /* Bold font weight */
@@ -19,7 +17,7 @@
 
 /* Search bar styling */
 .search-bar {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,8 +38,9 @@
 .cards-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
-  gap: 20px; /* Spacing between papers */
+  gap: 60px; /* Spacing between papers */
   padding-top: 20px;
+  padding-bottom: 20px;
   justify-items: center; /* Center the papers */
 }
 
