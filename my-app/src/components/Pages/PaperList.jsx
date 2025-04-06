@@ -130,7 +130,6 @@ const PaperList = () => {
             description={paper.description}
             id={paper.id}
             handleDisscuss={handleDisscuss }
-            handleDelete={handleDelete}
             
           />
         ))}
