@@ -15,7 +15,7 @@ function Cards() {
               src='/videos/pic1.jpg'
               text='Discussion Forum'
               label='Forum'
-              // path=
+              path='/PaperList'
             />
             <CardItem
               src='/videos/robot.jpg'

@@ -7,6 +7,7 @@ import Home from './components/Pages/Home';
 import SignIn from './components/SignIn';
 import About from './components/Pages/About';
 import Footer from "./components/Pages/Footer";
+import PaperList from './components/Pages/PaperList';
 
 const App = () => {
     const KEY = "demo";
@@ -18,6 +19,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
             <Route path="/SignIn" element={<SignIn />} />
+            <Route path="/PaperList" element={<PaperList />} />
             <Route path="/Footer" element={<Footer />} />
             <Route path="/About" element={<About />} />
         </Routes>

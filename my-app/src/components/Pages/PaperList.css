@@ -1,0 +1,77 @@
+/*Updated using chatgpt*/
+
+
+/* Overall container styling */
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center; /* Center the search bar */
+}
+
+/* Search bar styling */
+.search-bar {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Search input box */
+.search-bar input {
+  width: 60%;
+  padding: 12px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+}
+
+/* Papers container - CSS Grid layout */
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+  gap: 20px; /* Spacing between papers */
+  padding-top: 20px;
+  justify-items: center; /* Center the papers */
+}
+
+/* Individual paper styling */
+.paper {
+  background-color: #ffffff; /* White background to make the box visible */
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow to create depth */
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+  width: 250px; /* Set fixed width for each paper */
+  height: 300px; /* Set a consistent height for the paper */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ccc; /* Border around each paper */
+  background-color: #f8f8f8; /* Light grey background to create box effect */
+}
+
+/* Paper hover effect */
+.paper:hover {
+  transform: scale(1.05);
+}
+
+/* Paper title */
+.paper h3 {
+  margin: 0 0 15px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Paper description */
+.paper p {
+  margin: 0;
+  color: #666;
+  font-size: 1.1rem;
+  flex-grow: 1;
+}
