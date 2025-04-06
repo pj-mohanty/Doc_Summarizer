@@ -13,15 +13,15 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='/videos/pic1.jpg'
-              text='Talk to Others'
+              text='Discussion Forum'
               label='Forum'
               // path=
             />
             <CardItem
               src='/videos/robot.jpg'
-              text='Ask Chatbot'
+              text='Chatbot'
               label='Chatbot'
-              // path=''
+              path='http://localhost:8501'
             />
           </ul>
         </div>

@@ -16,7 +16,7 @@ const Footer = () => {
                   </p>
                   <ul>
                       <li>
-                          <strong>About: </strong> Explore in detaial about each reseach paer an discuss about it with others. 
+                          <strong>About: </strong> A smart, collaborative platform where you can upload documents, discuss them with others, and chat with an AI assistant that helps you understand and explore the content instantly. 
                       </li>
                   </ul>
               </section>

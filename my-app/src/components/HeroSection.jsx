@@ -8,8 +8,8 @@ import {useNavigate} from "react-router-dom";
 const HeroSection= () => {
     const navigate = useNavigate();
 
-    const handleNavigation = () => {
-        navigate('');
+    const openStreamlitApp = () => {
+      window.location.href = "http://localhost:8501";
     };
 
   return (
@@ -22,9 +22,9 @@ const HeroSection= () => {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
-          onClick={handleNavigation}
+          onClick={openStreamlitApp}
         >
-          Summarize a Research paper
+          upload documents
         </Button>
       </div>
     </div>

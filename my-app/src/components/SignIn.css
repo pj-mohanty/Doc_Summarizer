@@ -6,7 +6,7 @@
     border-radius: 12px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
     text-align: center;
-    background: linear-gradient(90deg, hsl(194, 87%, 29%) 0%, rgb(26, 23, 23) 100%);
+    background: linear-gradient(90deg, hsl(27, 92%, 20%) 0%, rgb(26, 23, 23) 100%);
     font-family: 'Arial', sans-serif;
     color: #333333;
   }
@@ -52,7 +52,7 @@
   .sign-in-container button {
     width: 100%;
     padding: 12px;
-    background: linear-gradient(90deg, hsl(194, 87%, 29%) 0%, rgb(26, 23, 23) 100%);
+    background: linear-gradient(90deg, hsl(27, 92%, 20%) 0%, rgb(26, 23, 23) 100%);
     color: #ffffff;
     border: none;
     border-radius: 6px;
@@ -63,7 +63,7 @@
   }
   
   .sign-in-container button:hover {
-    background: linear-gradient(90deg, hsl(194, 87%, 29%) 0%, rgb(26, 23, 23) 100%);
+    background: linear-gradient(90deg, hsl(27, 92%, 20%) 0%, rgb(26, 23, 23) 100%);
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgb(238, 234, 235);
   }

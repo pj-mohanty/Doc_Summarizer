@@ -1,0 +1,78 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.env.*  # .env.local, .env.dev, etc.
+env/
+.venv/
+venv/
+ENV/
+
+# Dependency management
+poetry.lock
+Pipfile.lock
+
+# Virtual environment tooling
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Streamlit & FastAPI
+.streamlit/
+
+# Frontend builds (if using React or similar)
+build/
+dist/
+node_modules/
+*.js.map
+
+# Models, embeddings, vector stores
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.tflite
+*.joblib
+*.pkl
+*.npy
+*.npz
+*.onnx
+vectorstore/
+
+# Data
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.pdf
+
+# HuggingFace
+.cache/
+datasets/
+hub/
+
+# LangChain
+*.db
+index_store/
+*.faiss
+*.lancedb
+*.duckdb
