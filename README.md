@@ -33,7 +33,7 @@ The AI reads, interprets, and understands the content of the uploaded PDF and en
 
 ##  Getting Started
 
-Run backend :
+Run backend app:
 -create a virtual env
 -Activate the virtual environment
 -Install dependencies
