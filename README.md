@@ -40,11 +40,22 @@ The AI reads, interprets, and understands the content of the uploaded PDF and en
 
 **Real-Time Interaction**  
   responsive backend ensures smooth conversations.
+  
+**Technologies used for chatbot**  
+-streamline - for UI
+-python
+-pdfplumber –pdfloading
+-Langchain- AI Framework
+-Deepseek- R1 transformer
+	-With Ollama- creating embedding
+	-with GROQ api for reasoning
+-FAISS for vector store
 
 
 ---
 
 ##  Getting Started
+Update 
 
 Run backend app:
 -create a virtual env
