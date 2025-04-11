@@ -49,7 +49,7 @@ The AI reads, interprets, and understands the content of the uploaded PDF and en
 -Deepseek- R1 transformer
 	-With Ollama- creating embedding
 	-with GROQ api for reasoning
--FAISS for vector store
+ -FAISS for vector store
 
 
 ---
