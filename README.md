@@ -13,6 +13,19 @@ This project is an intelligent PDF understanding and discussion platform powered
 The AI reads, interprets, and understands the content of the uploaded PDF and enables seamless interaction — whether it's clarifying concepts, summarizing sections, or answering specific questions. Additionally, users can interact with each other on a dedicated discussion platform.
 
 ---
+## Screenshots:
+
+![Image](https://github.com/user-attachments/assets/dbe1e10b-bfd5-40db-b3e6-7b1790f4ecef)
+
+![Image](https://github.com/user-attachments/assets/e69075f2-2619-4014-b045-0c7282b946eb)
+
+![Image](https://github.com/user-attachments/assets/99e005d2-bb40-421b-aec8-11f4ad7d4bd8)
+
+![Image](https://github.com/user-attachments/assets/978384af-1f52-4812-8b67-e42432276fef)
+
+![Image](https://github.com/user-attachments/assets/26672628-d79a-410e-8a17-d72010684acd)
+
+![Image](https://github.com/user-attachments/assets/aff51673-f30a-4a30-ac4b-a786022f363e)
 
 ## Features
 
